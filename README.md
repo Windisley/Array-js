@@ -19,6 +19,7 @@ O código JavaScript seleciona um elemento HTML com a classe `.container`, cria 
 O método map() é usado para iterar sobre todos os elementos de um array, aplicando uma função específica a cada item e retornando um novo array com os resultados.
 Uso no Código
 No código fornecido, o map() está sendo utilizado para percorrer o array frutas e criar um elemento de parágrafo (<p>) para cada item do array. Em vez de criar um novo array, o map() aqui serve para realizar uma operação em cada elemento sem necessariamente usar seu retorno.
+
  -----------------------------
 
  
